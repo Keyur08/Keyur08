@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Keyur08.Keyur08&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Keyur08.Keyur08&" height="40"  />
 </div>
 
 ###
