@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Keyur Jain and I'm a Pre-Fianl year Student of B.Tech AI & GDSC LEAD from India</h2>
+<h2 align="center">Hi 👋! My name is Keyur Jain and I'm a Pre-Final year Student of B.Tech AI & GDSC LEAD from India</h2>
 
 ###
 
